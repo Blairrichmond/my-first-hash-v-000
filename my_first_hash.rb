@@ -1,8 +1,7 @@
 def my_hash
 my_hash = {}
 
-
-
+genres = {"Electronic" => "Amon Tobin", "Hip Hop" => "J Dilla", "VGM" => "Masafumi Takada"}
 end
 
 
